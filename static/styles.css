@@ -31,7 +31,7 @@ a
 a:hover
 {
     text-decoration: underline;
-    color: blue;
+    color: #00008f;
 }
 
 .home
@@ -45,7 +45,7 @@ a:hover
 #myself
 {
     border-radius: 50%;
-    border: 3px solid blue;
+    border: 3px solid #00008f;
     display: block;
     margin-left: auto;
     margin-right: auto;
