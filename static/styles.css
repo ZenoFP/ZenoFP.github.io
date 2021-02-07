@@ -1,0 +1,80 @@
+body {
+    background-color: #0000ff;
+    color: #212529;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    margin: 0;
+    text-align: left;
+}
+
+.navigate
+{
+    margin-bottom: 2rem;
+    padding: 2rem 1rem;
+    text-align: center;
+    word-spacing: 30px;
+    font-size: x-large;
+}
+
+a
+{
+ color: #000000;
+ text-decoration: none;
+ font-weight: bold;
+}
+
+a:hover
+{
+    text-decoration: underline;
+    color: white;
+}
+
+.home
+{
+    text-align: center;
+    background-color: #0000ff;
+    color: white;
+
+}
+
+#myself
+{
+    border-radius: 50%;
+    border: 3px solid #ffffff;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10%;
+    height: 10%;
+}
+
+.welcome
+{
+    color: #0000ff;
+    font-size: xx-large;
+    text-align: center;
+    font-weight: bold;
+}
+
+.steps li
+{
+    color: blue;
+    font-size:xx-large;
+}
+
+.riga
+{
+  border: 3px solid blue;
+  border-radius: 5px;
+}
+
+.contacts
+{color: black;}
+
+.explain
+{
+    color: white;
+    text-align: center;
+    font-size: xx-large;
+}
