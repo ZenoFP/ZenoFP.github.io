@@ -1,11 +1,15 @@
 body {
-    background-color: #0000ff;
-    color: #212529;
+    background-color: white;
+    color: black;
     font-size: 1rem;
     font-weight: 400;
     line-height: 1.5;
     margin: 0;
     text-align: left;
+}
+
+main{
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .navigate
@@ -27,7 +31,7 @@ a
 a:hover
 {
     text-decoration: underline;
-    color: white;
+    color: blue;
 }
 
 .home
@@ -41,7 +45,7 @@ a:hover
 #myself
 {
     border-radius: 50%;
-    border: 3px solid #ffffff;
+    border: 3px solid blue;
     display: block;
     margin-left: auto;
     margin-right: auto;
